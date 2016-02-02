@@ -1,2 +1,2 @@
 # codeplay
-A repo of simple code experiments and learning exercises
+A repo of simple code experiments and learning exercises.

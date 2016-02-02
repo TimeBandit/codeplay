@@ -1,10 +1,8 @@
 header {
 	position: fixed;
-	top: 0px,
-	left: 0px;
-	margin: 0px;
 	background-color: #3F51B5;
 	font-family: sans-serif;
+	top: 0px;
 	color: #FFFFFF;	
 	width: 100%;
 	z-index: 1;
@@ -18,11 +16,11 @@ h1 {
 ul {
 	margin-top: 35px;
 	margin-right: 5px;
+	float: right;
 }
 
 li {
 	display: inline;
-	float: right;
 	margin-right: 10px;
 	padding: 0px 5px;
 	background-color: #448AFF;
@@ -35,6 +33,6 @@ article {
 }
 
 #content {
-	position: absolute;
+	/*position: absolute;*/
 	margin-top: 100px;
 }
