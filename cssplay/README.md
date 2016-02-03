@@ -4,6 +4,7 @@
 * classic with a nav menu
 * fixed left nav bar
 * colors.css example
+* menu appearing with a css transistion
 * grid boxes
 * boxes that respond to animate.css
 * drawing a football with css 
